@@ -1,2 +1,1 @@
-# hexlet-basics
-My first repository (test hexlet)
+test terminal Ubuntu
