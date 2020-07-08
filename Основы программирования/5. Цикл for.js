@@ -3,11 +3,10 @@
  const sum = (n, a, b) => {
     let result = 0;
     for (let counter = 1; counter < n; counter += 1) {
-      if ((counter % a) === 0 || (counter % b) === 0) {
+      if (counter % a === 0 || counter % b === 0) {
         result += counter;
       }
     }
     return result;
   };
   export default sum;
-  
