@@ -14,4 +14,3 @@ const calc = (a1, a, b) => {
     }
   };
   export default calc;
-  
